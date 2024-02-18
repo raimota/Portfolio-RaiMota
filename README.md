@@ -18,7 +18,8 @@ In addition to my academic background, I am committed to enhancing my skills in 
 
 
 ## Projetcs:
-Veja os tutoriais publicados.
+
+[Analisando Dados do Airbnb - Florença Itália](https://github.com/raimota/Analisando_dados_Airbnb)
 
 In progress :lock:
 
