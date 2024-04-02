@@ -19,7 +19,11 @@ In addition to my academic background, I am committed to enhancing my skills in 
 
 ## Projetcs:
 
-[Analisando Dados do Airbnb - Florença Itália](https://github.com/raimota/Analisando_dados_Airbnb)
+<p><a href="https://github.com/raimota/Panorama_Covid19">Análise Exploratória de Dados - Covid 19</a></p>
+<p><a href="https://github.com/raimota/Analisando_dados_Airbnb">Analisando Dados do Airbnb - Florença Itália</a></p>
+
+
+
 
 In progress :lock:
 
