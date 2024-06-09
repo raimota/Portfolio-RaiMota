@@ -21,6 +21,7 @@ In addition to my academic background, I am committed to enhancing my skills in 
 
 <p><a href="https://github.com/raimota/Panorama_Covid19">Análise Exploratória de Dados - Covid 19</a></p>
 <p><a href="https://github.com/raimota/Analisando_dados_Airbnb">Analisando Dados do Airbnb - Florença Itália</a></p>
+<p><a href="https://github.com/raimota/deteccao_fraude_cartao">Detecção de Fraudes de Crédito</a></p>
 
 
 
